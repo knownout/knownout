@@ -1,6 +1,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knownout&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knownout&theme=github_dark) &nbsp;&nbsp;&nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=knownout&theme=github_dark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knownout&theme=github_dark" width="100%" />
+
+<p align="middle">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knownout&theme=github_dark" width="49.1%" />
+  &nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=knownout&theme=github_dark" width="49.1%" />
+</p>
 
 <!--
 **knownout/knownout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
