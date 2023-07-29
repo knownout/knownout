@@ -1,5 +1,3 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knownout&theme=github_dark)
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knownout&theme=github_dark" width="100%" />
 
 <p align="middle">
