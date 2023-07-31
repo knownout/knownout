@@ -1,9 +1,11 @@
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knownout&theme=github_dark" width="100%" />
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knownout&theme=github_dark" />
+</p>
 
-<p align="middle">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knownout&theme=github_dark" width="49.1%" />
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knownout&theme=github_dark" />
   &nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=knownout&theme=github_dark" width="49.1%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=knownout&theme=github_dark" />
 </p>
 
 <!--
