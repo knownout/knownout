@@ -1,8 +1,10 @@
-<p align="center">
+<a href="https://a.slavinskii.com" target="_blank" rel="noreferrer">Check my latest CV here</a>
+
+<p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knownout&theme=github_dark" />
 </p>
 
-<p align="center">
+<p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knownout&theme=github_dark" />
   &nbsp;&nbsp;
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=knownout&theme=github_dark" />
